@@ -1,0 +1,30 @@
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-////////////////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////READ ME - CHATBOT FIFABOT - BORIS & THÉO\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+////////////////////////////////////////////////////////////////////////////////////////-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+To start FifaBOT, here are the different steps to follow:
+
+When you are on the (open) project, remember to save all the .py files that are open: >> File >> Save All
+
+Once the project has been saved in its entirety, you must RUN all the .py files, EXCEPT the server.py file (which must be RUN last): RUN = click on the green arrow
+
+When all the files have been RUN, the server.py file must be RUN.
+
+
+---------------------------Pour les étapes suivantes, assurez-vous d'avoir téléchargé (en avance) ngrok.exe (sans cela, vous ne pourrez pas continuer)--------------------------------
+
+
+Launch ngrok.exe on your computer.
+
+Run the following command: ngrok http 5000
+Then copy the URL sent to you.
+
+This URL is intended for you to enter in the "Callback URL" part.
+Then enter "VERIFY_TOKEN" in the "Check the token" part.
+
+Click on "Check and Save".
+
+------> You can now test our CHATBOT !!! :)
+
+Enjoy.
+
